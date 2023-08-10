@@ -1,0 +1,3 @@
+C:/Users/16624/Desktop/Test/CLion-DSP-CubeIDE/cmake-build-debug/CMakeFiles/DSPCrossCLion.elf.dir
+C:/Users/16624/Desktop/Test/CLion-DSP-CubeIDE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/16624/Desktop/Test/CLion-DSP-CubeIDE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
