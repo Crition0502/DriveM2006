@@ -1,5 +1,5 @@
 "D:\Program Files\Jetbrain\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\16624\Desktop\Test\CLion-DSP-CubeIDE -B C:\Users\16624\Desktop\Test\CLion-DSP-CubeIDE\cmake-build-debug
 -- Minimal optimization, debug info included
--- Configuring done (0.0s)
--- Generating done (0.0s)
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
 -- Build files have been written to: C:/Users/16624/Desktop/Test/CLion-DSP-CubeIDE/cmake-build-debug

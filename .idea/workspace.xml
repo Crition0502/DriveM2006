@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b947cdc-b210-443c-8347-5527393749d0" name="更改" comment="" />
+    <list default="true" id="9b947cdc-b210-443c-8347-5527393749d0" name="更改" comment="add config for daplink and stlink" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +31,27 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="helmos &lt;crition_bjut@163.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Crition0502"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cbbd7849-34ff-41e6-b6d0-da57308518c1" />
+        <option name="url" value="https://github.com/Crition0502/DriveM2006" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -50,7 +70,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "v2-DSPCrossClion",
     "last_opened_file_path": "C:/Users/16624/Desktop/Test/CLion-DSP-CubeIDE",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -81,8 +101,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691654529625</updated>
-      <workItem from="1691654530660" duration="2013000" />
+      <workItem from="1691654530660" duration="3191000" />
     </task>
+    <task id="LOCAL-00001" summary="initial v2: DSPCrossClion">
+      <option name="closed" value="true" />
+      <created>1691656666131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691656666131</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add config for daplink and stlink">
+      <option name="closed" value="true" />
+      <created>1691657625800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691657625800</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add config for daplink and stlink">
+      <option name="closed" value="true" />
+      <created>1691657752822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691657752822</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,22 +144,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial v2: DSPCrossClion" />
+    <MESSAGE value="add config for daplink and stlink" />
+    <option name="LAST_COMMIT_MESSAGE" value="add config for daplink and stlink" />
   </component>
 </project>
