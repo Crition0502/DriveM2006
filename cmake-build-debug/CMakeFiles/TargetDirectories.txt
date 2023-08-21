@@ -1,0 +1,3 @@
+C:/A.Document/2023Summer/PIP/f103x/Day2/cmake-build-debug/CMakeFiles/Day2.dir
+C:/A.Document/2023Summer/PIP/f103x/Day2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/A.Document/2023Summer/PIP/f103x/Day2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
