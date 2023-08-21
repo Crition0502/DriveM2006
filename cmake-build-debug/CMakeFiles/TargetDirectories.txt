@@ -1,0 +1,3 @@
+C:/Users/16624/Desktop/Test/Day1/cmake-build-debug/CMakeFiles/Day1.dir
+C:/Users/16624/Desktop/Test/Day1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/16624/Desktop/Test/Day1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
